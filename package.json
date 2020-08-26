@@ -1,0 +1,23 @@
+{
+  "name": "vue-axios-api-service",
+  "version": "1.0.0",
+  "description": "Wrapper for consume axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "axios",
+    "service",
+    "api"
+  ],
+  "author": "José Silva Jr <jsilva@jjr.eti.br> (https://www.jjr.eti.br)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
+}
