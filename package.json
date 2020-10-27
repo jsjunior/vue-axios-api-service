@@ -1,6 +1,6 @@
 {
   "name": "vue-axios-api-service",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Wrapper for consume axios",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": "https://github.com/jsjunior/vue-axios-api-service",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "0.21.0"
   },
   "devDependencies": {
     "eslint": "^7.7.0"
