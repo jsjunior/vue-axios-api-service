@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": "https://github.com/jsjunior/vue-axios-api-service",
   "dependencies": {
-    "axios": "0.21.0"
+    "axios": "0.21.1"
   },
   "devDependencies": {
     "eslint": "^7.7.0"
